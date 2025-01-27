@@ -1,1 +1,2 @@
 # JimuSearchEngineGateway
+JimuSearchEngineGateway project written in Go
